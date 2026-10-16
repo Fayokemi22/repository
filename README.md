@@ -77,4 +77,3 @@ The source and test roots are configured in `noWayToHide.iml`. Follow the
 package responsibility rather than choosing a folder merely because it is
 convenient, and write tests for behavior at the level where that behavior is
 owned.
-# repository
